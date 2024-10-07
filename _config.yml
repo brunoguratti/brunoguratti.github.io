@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Bruno Guratti | Portfolio"
+title                    : "Bruno Guratti"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bruno Guratti"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Bruno Guratti"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist."
+  bio              : "Data Scientist"
   location         : "Canada"
   email            :
   links:
