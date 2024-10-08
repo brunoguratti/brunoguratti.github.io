@@ -1,5 +1,5 @@
 ---
-title: "Buiness Analystics Report"
+title: "Buiness Analytics Report"
 excerpt: ""
 header:
   # image: /assets/images/wecoffee_report.png
