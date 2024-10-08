@@ -1,6 +1,5 @@
 ---
-title: "Buiness Analystics Report"
-excerpt: ""
+title: "Customer Segmentation"
 header:
   # image: /assets/images/wecoffee_report.png
   teaser: /assets/images/armazem_cluster_th.jpeg
