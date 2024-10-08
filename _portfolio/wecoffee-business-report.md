@@ -22,6 +22,10 @@ sidebar:
 #     alt: "placeholder image 3"
 ---
 
-Conducted a comprehensive business analytics study for WeCoffee, a specialty coffee chain in São Paulo, Brazil, to evaluate performance and identify growth opportunities. The project involved developing a structured learning agenda, collecting and cleaning diverse datasets, and performing in-depth analyses including EDA, statistical modeling, ANOVA, time-series forecasting, and market basket analysis. Data visualizations using Power BI were employed to communicate insights effectively. Key outcomes included a 15% increase in average transaction value through optimized product offerings, and a 10% reduction in inventory costs via improved forecasting. The project demonstrated the application of data science techniques to solve real-world business problems, driving tangible improvements in performance and informing strategic decision-making.
+Comprehensive business analytics study for WeCoffee, a specialty coffee chain in São Paulo, Brazil, to evaluate performance and identify growth opportunities. The project involved developing a structured learning agenda, collecting and cleaning diverse datasets, and performing in-depth analyses including EDA, statistical modeling, ANOVA, time-series forecasting, and market basket analysis. Data visualizations using Power BI were employed to communicate insights effectively.
+
+**Key outcomes**:
+- 15% increase in average transaction value through optimized product offerings
+- 10% reduction in inventory costs via improved forecasting
 
 <!-- {% include gallery caption="This is a sample gallery to go along with this case study." %} -->
