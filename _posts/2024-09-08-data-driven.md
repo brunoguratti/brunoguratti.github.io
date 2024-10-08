@@ -13,7 +13,7 @@ In fact, two-thirds of decision-makers at over 300 companies, according to Alati
 
 Over-reliance on intuition can undermine the credibility of data and reveals a significant gap in the organization's ability to use data effectively.
 
-🔅 But why is the DDDM approach so important?
+But why is the DDDM approach so important?
 
 Data gives businesses the ability to make more intelligent decisions based on trends, patterns, and opportunities that might otherwise be unnoticed. It enables businesses to:
 
@@ -27,4 +27,4 @@ Data gives businesses the ability to make more intelligent decisions based on tr
 
 The impact of data-driven decision-making is huge and undeniable. It has completely changed companies from what is successful today: highly agile, responsive to changes in the market, and able to change strategies with speed and precision.
 
-💡 How has data-driven decision-making influenced your business or career? I would love to hear your comments and experiences on that—leave them below!
+How has data-driven decision-making influenced your business or career? I would love to hear your comments and experiences on that—leave them below!
