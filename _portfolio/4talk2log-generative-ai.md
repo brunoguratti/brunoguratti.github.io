@@ -1,5 +1,5 @@
 ---
-title: "Talk2log | Generate engaging narratives from log files using AI"
+title: "Generate engaging narratives from industrial log files using AI"
 excerpt: ""
 header:
   # image: /assets/images/wecoffee_report.png
