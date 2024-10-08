@@ -1,5 +1,7 @@
 ---
 title: 'The importance of data-driven decision making to business'
+date: 2024-09-08
+permalink: /posts/2024/09/importance-of-data-driven-decision-making-to-business
 tags:
   - business
   - data-driven
