@@ -3,12 +3,11 @@ title: "WeCoffee Buiness Analystics Report"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/wecoffee_report.png
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/wecoffee_th.jpeg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
+  - title: ""
+    image: /assets/images/wecoffee_th.jpeg
     image_alt: "logo"
-    text: "Data Analyst"
   - title: "Project goal"
     text: "Create a comprehensive business analytics study for WeCoffee to evaluate current performance metrics and identify strategic growth opportunities. Provide data-driven insights to inform decision-making and optimize business operations."
 # gallery:
