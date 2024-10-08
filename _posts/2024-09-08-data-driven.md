@@ -9,6 +9,8 @@ tags:
 
 Despite the advance in data-driven decision making (DDDM) in modern business, surprisingly a huge number of companies still rely on gut instinct.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/1724082003074.jpeg)
+
 In fact, two-thirds of decision-makers at over 300 companies, according to Alation's "State of Data Culture" report released in 2020, focus on intuition rather than data. The primary reason: they believe their gut feel is the differentiator (42%).
 
 Over-reliance on intuition can undermine the credibility of data and reveals a significant gap in the organization's ability to use data effectively.
