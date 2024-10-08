@@ -1,10 +1,5 @@
 ---
 title: 'The importance of data-driven decision making to business'
-date: 2024-09-08
-permalink: /posts/2024/09/importance-data-driven-decision-making-to-business/
-tags:
-  - business
-  - data-driven
 ---
 
 Despite the advance in data-driven decision making (DDDM) in modern business, surprisingly a huge number of companies still rely on gut instinct.
