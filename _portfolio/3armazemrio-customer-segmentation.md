@@ -1,5 +1,6 @@
 ---
-title: "Customer Segmentation"
+title: "Customer segmentation for a retail store"
+permalink: /portfolio/armazemrio-customer-segmentation
 header:
   # image: /assets/images/wecoffee_report.png
   teaser: /assets/images/armazem_cluster_th.png

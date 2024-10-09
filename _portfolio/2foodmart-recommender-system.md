@@ -1,5 +1,7 @@
 ---
-title: "Recommender System for On-line Grocery Store"
+title: "Recommender system for on-line grocery store"
+permalink: /portfolio/foodmart-recommender-system
+
 excerpt: ""
 header:
   # image: /assets/images/wecoffee_report.png

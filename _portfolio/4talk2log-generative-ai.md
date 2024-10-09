@@ -1,5 +1,6 @@
 ---
-title: "Log Analytics: using AI to transform dense log files in engaging narratives"
+title: "Log Analytics: using AI to transform complex log files in engaging narratives"
+permalink: /portfolio/talk2log
 excerpt: ""
 header:
   teaser: /assets/images/talk2log_th.png

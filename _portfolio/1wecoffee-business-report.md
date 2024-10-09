@@ -1,5 +1,6 @@
 ---
-title: "Buiness Analytics Report"
+title: "Buiness analytics report"
+permalink: /portfolio/we-coffee-business-report
 excerpt: ""
 header:
   # image: /assets/images/wecoffee_report.png
