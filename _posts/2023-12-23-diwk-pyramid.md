@@ -1,5 +1,5 @@
 ---
-title: 'The DIKW Pyramid in Data Science'
+title: 'The DIKW pyramid in data science'
 date: 2023-12-23
 permalink: /posts/2023/12/the-dikw-pyramid-in-data-science
 tags:
