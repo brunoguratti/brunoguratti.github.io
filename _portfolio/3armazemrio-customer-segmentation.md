@@ -2,7 +2,7 @@
 title: "Customer Segmentation"
 header:
   # image: /assets/images/wecoffee_report.png
-  teaser: /assets/images/armazem_cluster_th.jpeg
+  teaser: /assets/images/armazem_cluster_th.png
 sidebar:
   - title: ""
     image: /assets/images/armazem_logo.png

@@ -3,7 +3,7 @@ title: "Recommender System for On-line Grocery Store"
 excerpt: ""
 header:
   # image: /assets/images/wecoffee_report.png
-  teaser: /assets/images/foodmart_th.jpeg
+  teaser: /assets/images/foodmart_th.png
 sidebar:
   - title: ""
     image: /assets/images/foodmart_logo.png

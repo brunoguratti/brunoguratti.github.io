@@ -3,7 +3,7 @@ title: "Buiness Analytics Report"
 excerpt: ""
 header:
   # image: /assets/images/wecoffee_report.png
-  teaser: /assets/images/wecoffee_th.jpeg
+  teaser: /assets/images/wecoffee_th.png
 sidebar:
   - title: ""
     image: /assets/images/wecofee_logo.png
