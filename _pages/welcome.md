@@ -4,39 +4,30 @@ title:
 ---
 
 ```python
-# Welcome to my portfolio!
+# Welcome to my portfolio!   
+def introduce(name):
+    print(f"👋 Hi, I'm {name}!")
+    print("I'm a Data Scientist.")
 
-class DataScientist:
-    def __init__(self, name, skills, interests):
-        self.name = name
-        self.skills = skills
-        self.interests = interests
-    
-    def introduce(self):
-        print(f"👋 Hi, I'm {self.name}!")
-        print("I'm a Data Scientist.")
-    
-    def show_skills(self):
-        print("\nMy key skills:")
-        for skill in self.skills:
-            print(f"- {skill}")
-    
-    def share_interests(self):
-        print("\nI'm passionate about:")
-        for interest in self.interests:
-            print(f"- {interest}")
+def show_skills(skills):
+    print("\nMy key skills:")
+    for skill in skills:
+        print(f"- {skill}")
+
+def share_interests(interests):
+    print("\nI'm passionate about:")
+    for interest in interests:
+        print(f"- {interest}")
 
 # Create my profile
-me = DataScientist(
-    name="Bruno",
-    skills=["Python", "Data Analysis", "Data Visualization", "Machine Learning"],
-    interests=["Solving complex and meaningful problems", "Creating AI-powered systems", "Continuous learning"]
-)
+name="Bruno",
+skills=["Python", "Data Analysis", "Data Visualization", "Machine Learning"],
+interests=["Technology", "AI application", "Continuous learning"]
 
 # Run the introduction
-me.introduce()
-me.show_skills()
-me.share_interests()
+introduce(name)
+show_skills(skills)
+share_interests(interests)
 
 print("\nLet's connect and create something amazing together!")
 ```
@@ -50,8 +41,8 @@ My key skills:
 - Machine Learning
 
 I'm passionate about:
-- Solving complex and meaningful problems
-- Creating AI-powered systems
+- Technology
+- AI application
 - Continuous learning
 
 Let's connect and create something amazing together!
