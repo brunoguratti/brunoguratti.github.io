@@ -15,8 +15,11 @@ Data Science's core goal is to reduce uncertainty, though predicting outcomes is
 The DIKW pyramid is a powerful framework to understand the flow of transforming raw data into actionable insights.
 
 **Data**: The foundational level, consisting of unprocessed facts or observations. Often messy and lacking context, data holds little value until interpreted.
+
 **Information**: Context and interpretation bring life into data, rendering it meaningful and purposeful.
+
 **Knowledge**: This phase involves linking information to our reality, fostering associations with practical experiences—the 'know-how,' 'know-who,' and 'know-when.'
+
 **Wisdom**: The summit where knowledge transforms into action. Wisdom brings the essence of 'knowing the right things to do' and making astute decisions seemingly effortlessly.
 
 Understanding this pyramid is key to obtain the potential of data. It's not just about gathering facts; it's about transforming them into actionable wisdom.
