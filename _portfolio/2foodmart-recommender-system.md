@@ -19,7 +19,7 @@ sidebar:
 
 📅 January, 2023
 
-Developed and implemented a recommendation system using market basket analysis to boost online sales for a local grocery store. The system suggests products based on current cart contents, purchase history, and popular item combinations. After integration with the e-commerce platform, we saw 17% increase in online sales within three months, along with a 12% improvement in average order value. The project not only generated significant revenue growth but also enhanced the shopping experience; we also got a 25% rise in products viewed per session.
+Developed and implemented a recommendation system using market basket analysis to boost online sales for a Foodmart, a local grocery store. The system suggests products based on current cart contents, purchase history, and popular item combinations. After integration with the e-commerce platform, online sales increased 17% within three months, along with a 12% improvement in average order value. This project also enhanced the shopping experience with a 25% rise in products viewed per user session.
 
 **See it in action:**
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/recommender_demo.gif)

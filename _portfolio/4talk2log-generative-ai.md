@@ -17,7 +17,7 @@ sidebar:
 
 📅 October, 2024
 
-Innovative AI-powered system designed to transform complex industrial control system logs into clear, accessible summaries of production line activities. By leveraging Retrieval-Augmented Generation (RAG) and Rerank, Talk2log interprets dense technical data and generates human-friendly descriptions. This tool bridges the gap between raw machine data and actionable insights, enabling operators, managers, and stakeholders to quickly understand production line status, identify potential issues, and make informed decisions, potentially reducing downtime, improving efficiency, and facilitating quicker response to anomalies in industrial settings.
+Innovative AI-powered system designed to transform complex industrial control system logs into clear, accessible summaries of production line activities. By using Retrieval-Augmented Generation (RAG) and Rerank, Talk2log interprets dense and complex technical data and generates human-friendly and engaging summaries. This tool bridges the gap between raw machine data and actionable insights, enabling operators, managers, and stakeholders to quickly understand production line status, identify potential issues, and make informed decisions, potentially reducing downtime, improving efficiency, and facilitating quicker response to anomalies in industrial environment.
 
 **See it in action:**
 
