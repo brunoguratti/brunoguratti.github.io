@@ -2,7 +2,7 @@
 title: "Log Analytics: using AI to transform dense log files in engaging narratives"
 excerpt: ""
 header:
-  teaser: /assets/images/talk2log_th.jpng
+  teaser: /assets/images/talk2log_th.png
 sidebar:
   - title: ""
     image: /assets/images/talk2log_logo.png
