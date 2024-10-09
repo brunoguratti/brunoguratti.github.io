@@ -2,9 +2,7 @@
 permalink: /
 title: 
 ---
-<table>
-    <tr>
-        <td>```python
+```python
 # Welcome to my portfolio!   
 def introduce(name):
     print(f"👋 Hi, I'm {name}!")
@@ -32,8 +30,7 @@ share_interests(interests)
 
 print("\nLet's connect and create something amazing together!")
 ```
-</td>
-        <td>👋 Hi, I'm Bruno!
+👋 Hi, I'm Bruno!
 I'm a Data Scientist.
 
 My key skills:
@@ -48,6 +45,3 @@ I'm passionate about:
 - Continuous learning
 
 Let's connect and create something amazing together!
-</td>
-    </tr>
-</table>
