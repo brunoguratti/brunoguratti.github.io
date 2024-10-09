@@ -221,7 +221,7 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 300px;
+      max-height: 400px;
     }
 
     @include breakpoint($medium) {
@@ -313,7 +313,7 @@
     @include breakpoint($small) {
       .archive__item-teaser {
         float: inline-start;
-        width: span(10 of 12);
+        width: span(5 of 12);
       }
 
       .archive__item-body {
@@ -337,7 +337,7 @@
 
       .archive__item-teaser {
         float: inline-end;
-        width: span(10 of 12);
+        width: span(5 of 12);
       }
 
       .archive__item-body {
@@ -377,7 +377,7 @@
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(10 of 12);
+        width: span(5 of 12);
       }
 
       .archive__item-body {
