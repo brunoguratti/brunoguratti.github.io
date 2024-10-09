@@ -1,5 +1,5 @@
 ---
-title: "Generate engaging narratives from industrial log files using AI"
+title: "Log Analytics: using AI to transform dense log files in engaging narratives"
 excerpt: ""
 header:
   # image: /assets/images/wecoffee_report.png
