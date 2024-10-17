@@ -13,7 +13,7 @@ sidebar:
 
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/talk2log.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/resumego.png)
 
 📅 October, 2024
 
