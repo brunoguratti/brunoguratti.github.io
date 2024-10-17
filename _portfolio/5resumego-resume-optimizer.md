@@ -1,5 +1,5 @@
 ---
-title: "Resume fine-tuning for improved matching"
+title: "Resume fine-tuning using NLP and AI for improved ATS matching"
 permalink: /portfolio/resumego
 excerpt: ""
 header:
