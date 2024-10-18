@@ -11,6 +11,14 @@ sidebar:
     image_alt: "logo"
   - title: "Project goal"
     text: "Create a comprehensive business analytics study for WeCoffee to evaluate current performance metrics and identify strategic growth opportunities. Provide data-driven insights to inform decision-making and optimize business operations."
+gallery:
+  - url: /assets/images/wecoffee_learningagenda.png
+    image_path: /assets/images/wecoffee_learningagenda.png
+    alt: "Learning Agenda"
+  - url: /assets/images/wecofee_dashboard.png
+    image_path: /assets/images/wecofee_dashboard.png
+    alt: "Dashboard"
+
 ---
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/wecoffee_report.png)
@@ -22,3 +30,5 @@ Comprehensive business analytics study for WeCoffee, a specialty coffee chain in
 **Key outcomes**:
 - 15% increase in average transaction value through optimized product offerings
 - 10% reduction in inventory costs via improved forecasting
+
+{% include gallery caption="Portfolio gallery" %}
