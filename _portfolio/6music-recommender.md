@@ -7,7 +7,7 @@ header:
 sidebar:
   - title: ""
     image_alt: "logo"
-  - title: "Project goal"
+  # - title: "Project goal"
     text: ""
 ---
 
