@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
   - title: "Project goal"
     text: "Increase customer retention by 20% and boost marketing ROI by 25% through the implementation of a data-driven customer segmentation strategy for Armazém Rio's retail operations."
-  gallery:
+gallery:
   - url: /assets/images/segmentation_armazem.png
     image_path: /assets/images/segmentation_armazem.png
     alt: "Customer Segmentation"
