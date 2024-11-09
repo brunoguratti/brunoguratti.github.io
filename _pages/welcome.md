@@ -5,7 +5,7 @@ title:
 ```python
 # Welcome to my portfolio!   
 def introduce(name):
-    print(f"👋 Hi, I'm {name}! I'm a Data Scientist.")
+    print(f"👋 Hi, I'm {name}! I'm a Data Analyst.")
 
 def show_skills(skills):
     print("\nMy key skills:")
@@ -30,7 +30,7 @@ share_interests(interests)
 print("\nLet's connect!")
 ```
 👋 Hi, I'm Bruno!
-I'm a Data Scientist.
+I'm a Data Analyst.
 
 My key skills:
 - Python
