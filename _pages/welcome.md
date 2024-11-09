@@ -33,10 +33,10 @@ print("\nLet's connect!")
 I'm a Data Analyst.
 
 My key skills:
-- Python
 - Data Analysis
+- SQL
 - Data Visualization
-- Machine Learning
+- Python
 
 I'm passionate about:
 - Technology
