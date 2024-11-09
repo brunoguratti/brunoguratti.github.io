@@ -5,10 +5,6 @@ permalink: /resume
 
 # Bruno Guratti
 
-**Location**: Stratford, ON  
-
----
-
 ## Profile
 
 Data Analyst with strong experience in data analysis, report creation, and BI solutions for strategic decision-making. Proficient in data visualization, reporting, SQL, Python, R, Excel, Power BI, and Tableau. Skilled at bridging technical and business teams to create actionable insights and data-driven solutions.
@@ -28,7 +24,6 @@ Data Analyst with strong experience in data analysis, report creation, and BI so
 - **Cross-Functional Collaboration**: Effective at collaborating with technical and business teams.
 - **Languages**: Advanced English and native Portuguese.
 
----
 
 ## Professional Experience
 
@@ -55,8 +50,6 @@ Data Analyst with strong experience in data analysis, report creation, and BI so
 ### Production Engineer  
 **Cebrace (Brazil)** | Mar 2010 – Apr 2014  
 
----
-
 ## Projects
 
 ### Data Analytics Manager – Volunteer  
@@ -70,7 +63,6 @@ Data Analyst with strong experience in data analysis, report creation, and BI so
 ### Competitive Intelligence and Market Analysis  
 - Coordinated competitive intelligence and market research, creating custom dashboards to inform business strategy.
 
----
 
 ## Academic Qualifications
 
