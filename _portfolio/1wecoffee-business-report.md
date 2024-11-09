@@ -27,7 +27,7 @@ gallery:
 
 ### Overview
 
-As the lead data analyst, I developed a structured learning agenda to guide WeCoffee’s growth strategy. This project required thorough data collection, cleaning, and integration from multiple sources, followed by detailed exploratory data analysis (EDA) and advanced statistical modeling. I worked closely with cross-functional teams to align analytics with the company’s broader objectives, tackling challenges in data unification and ensuring insights were actionable. Key analyses included ANOVA to assess performance variances across locations, time-series forecasting for demand predictions, and market basket analysis to optimize product offerings.
+As the lead data analyst, I developed a structured learning agenda to guide WeCoffee’s growth strategy. This project required thorough data collection, cleaning, and integration from multiple sources, followed by detailed exploratory data analysis (EDA) and advanced statistical modeling. Key analyses included ANOVA to assess performance variances across locations, time-series forecasting for demand predictions, and market basket analysis to optimize product offerings.
 
 ### Tools and Technologies Used
 
@@ -47,12 +47,6 @@ These tools provided a comprehensive framework for efficient data processing and
 
 Each method was selected to uncover meaningful patterns and inform actionable strategies that addressed WeCoffee’s business needs.
 
-### Impact and Outcomes 
-The project yielded measurable results, including:
-- A 15% increase in average transaction value through strategically optimized product offerings.
-- A 10% reduction in inventory costs by refining demand forecasts, leading to more precise stock management.
-
-The analysis equipped WeCoffee with data-driven insights that significantly improved operational efficiency and informed future strategic decisions.
 
 **Gallery**
 {% include gallery caption="" %}
