@@ -32,7 +32,7 @@ As the lead data analyst, I developed a structured learning agenda to guide WeCo
 ### Tools and Technologies Used
 
 - **Power BI:** Utilized for visually communicating findings, offering clear, interactive dashboards that enabled stakeholders to grasp insights quickly.
-- **Python (pandas, scikit-learn, and statsmodels): Selected for data wrangling, statistical modeling, and exploratory analysis due to its versatility and rich library ecosystem.
+- **Python (pandas, scikit-learn, and statsmodels):** Selected for data wrangling, statistical modeling, and exploratory analysis due to its versatility and rich library ecosystem.
 - **SQL:** Used to query and manage large datasets, facilitating efficient data extraction and transformation.
 - **Excel:** Employed for preliminary analysis and data organization before modeling.
 
