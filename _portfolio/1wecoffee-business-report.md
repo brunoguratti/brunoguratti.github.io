@@ -27,30 +27,32 @@ gallery:
 
 ### Overview
 
-As the lead data analyst, develop an ordered learning agenda for WeCoffee's growth strategy. This is a project involving heavy data collection, cleaning, and integration from multiple sources, followed by detailed exploratory data analysis with advanced statistical modeling. This work also entails close collaboration with different functional teams to make analytics in tune with the bigger objectives of the company, working out challenges in data unification, and ensuring insightful actionability. Key analyses included ANOVA on how disparate the performances are between locations, time-series forecasting of demand, and market basket analysis for the optimization of product offerings.
+As the lead data analyst, I developed a structured learning agenda to guide WeCoffee’s growth strategy. This project required thorough data collection, cleaning, and integration from multiple sources, followed by detailed exploratory data analysis (EDA) and advanced statistical modeling. I worked closely with cross-functional teams to align analytics with the company’s broader objectives, tackling challenges in data unification and ensuring insights were actionable. Key analyses included ANOVA to assess performance variances across locations, time-series forecasting for demand predictions, and market basket analysis to optimize product offerings.
 
 ### Tools and Technologies Used
 
-- **Power BI:** Was utilized for the visual communication of findings through clear, interactive dashboards that would enable stakeholders to quickly understand the insights.
-- **Python:** pandas, scikit-learn, and statsmodels-=% chosen because of its versatility for data wrangling, statistical modeling, and exploratory analysis thanks to its rich library ecosystem.
-- **SQL:** Was used to query and manage the large data set, enabling easier and faster extraction and transformation of any data.
-- **Excel:** Was used as a preliminary tool for basic analysis and organization of data before modeling. These tools combined provided a comprehensive framework for efficiency in processing data and analytical outputs with reliability, hence significantly cutting down on time used on the analysis.
+- **Power BI:** Utilized for visually communicating findings, offering clear, interactive dashboards that enabled stakeholders to grasp insights quickly.
+- **Python (pandas, scikit-learn, and statsmodels): Selected for data wrangling, statistical modeling, and exploratory analysis due to its versatility and rich library ecosystem.
+- **SQL:** Used to query and manage large datasets, facilitating efficient data extraction and transformation.
+- **Excel:** Employed for preliminary analysis and data organization before modeling.
+
+These tools provided a comprehensive framework for efficient data processing and reliable analytical outputs, significantly reducing analysis time.
 
 ### Statistical and Analytical Techniques
 
-- **Exploratory Data Analysis (EDA):** This included finding the main trends in anomalous patterns across a raft of sales and performance metrics.
-- **ANOVA:** It was applied to the assessment of variability in performance at different WeCoffee venues, hence highlighting opportunities for improvement.
-- **Time Series Forecasting:** Informed demand forecasting accurately, which directly informed inventory management.
-- **Market Basket Analysis:** It supported buying behaviors analysis in terms of optimized product and targeted promotions to improve transaction values.
+- **Exploratory Data Analysis (EDA):** Identified key trends and anomalies across different sales and performance metrics.
+- **ANOVA:** Applied to evaluate variations in performance across WeCoffee’s locations, identifying areas for improvement.
+- **Time Series Forecasting:** Enabled accurate demand forecasting, which directly informed inventory management.
+- **Market Basket Analysis:** Analyzed purchasing patterns, leading to optimized product placement and targeted promotions that increased transaction values.
 
-Each technique was selected to reveal meaningful patterns and actionable strategies that directly address business needs identified in the case by WeCoffee.
+Each method was selected to uncover meaningful patterns and inform actionable strategies that addressed WeCoffee’s business needs.
 
 ### Impact and Outcomes 
-Thus, the measurable results regarded the project:
-- A 15% increase in average transaction value by having product offerings which have been optimized strategically.
-- A reduction of 10% in inventory costs through refined forecasting of demand that permits more appropriate stock management.
+The project yielded measurable results, including:
+- A 15% increase in average transaction value through strategically optimized product offerings.
+- A 10% reduction in inventory costs by refining demand forecasts, leading to more precise stock management.
 
-These analyses thus provided WeCoffee with data-driven insight into, firstly significantly enhancing operational efficiency and secondly informing future decisions on strategy.
+The analysis equipped WeCoffee with data-driven insights that significantly improved operational efficiency and informed future strategic decisions.
 
 **Gallery**
 {% include gallery caption="" %}
